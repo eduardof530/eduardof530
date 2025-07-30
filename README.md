@@ -8,7 +8,7 @@ Experiência em projetos de análise de dados aplicados a contextos reais, com f
 ● Conhecimentos em Analise de dados, Data Analytics, Data-Driven Decision Making, Limpeza de Dados, Visualização de Dados, Estatística Descritiva, Machine Learning, Análise Preditiva, ; 
 ● Noções em APIs e Integrações, Big Data, Data Lake / Data Warehouse, Storytelling com Dados, ETL (Extract, Transform, Load).
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardof530&repo=Projeto-Parceria-Semanix&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardof530&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
