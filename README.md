@@ -17,6 +17,11 @@ Experiência em projetos de análise de dados aplicados a contextos reais, com f
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardof530&repo=Projeto-4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardof530&repo=Projeto-Parceria-Semanix&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardof530&repo=Projeto3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardof530&repo=Projeto-1---Calculadora&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
