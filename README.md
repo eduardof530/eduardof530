@@ -1,4 +1,4 @@
-### Olá 👋
+### Saudações! 👋
 
 ###### Sobre o Eduardo
 Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, Profissional com perfil analítico, proativo, comunicativo e com facilidade para relacionamentos interpessoais. Possuo experiências em Gestão de tráfego onde analiso dados para tomada de decisões em retorno para maiores resultados.
